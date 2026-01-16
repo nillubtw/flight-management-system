@@ -1,4 +1,4 @@
-# Flight Reservation System - Emirates Airlines
+# Flight Reservation System 
 
 A comprehensive flight reservation and management system built with Python and MySQL. This application allows users to manage flight bookings, passenger information, food orders, and luggage services.
 
@@ -226,3 +226,4 @@ This project is for educational purposes.
 **Project Name**: Flight Reservation System - Emirates Airlines  
 **Created**: 2026  
 **Version**: 1.0
+
